@@ -1,4 +1,4 @@
-package day_3;
+package day3_EntityClass;
 
 public class Product {
 	private int pid;
