@@ -1,4 +1,4 @@
-package com.tnisf.dayFour.thirdpackage;
+package com.tnsif.dayFour.thirdpackage;
 
 public class PrivateConstructorDemo {
 

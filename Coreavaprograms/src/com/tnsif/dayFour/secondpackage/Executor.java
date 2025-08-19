@@ -1,6 +1,6 @@
-package com.tnisf.dayFour.secondpackage;
+package com.tnsif.dayFour.secondpackage;
 
-import com.tnisf.dayFour.firstpackage.*;
+import com.tnsif.dayFour.firstpackage.*;
 
 public class Executor {
 

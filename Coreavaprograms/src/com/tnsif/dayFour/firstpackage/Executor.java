@@ -1,4 +1,4 @@
-package com.tnisf.dayFour.firstpackage;
+package com.tnsif.dayFour.firstpackage;
 
 public class Executor {
 
@@ -16,7 +16,7 @@ public class Executor {
 				/*b1.varPrivate=21; 
 				b1.methodPrivate();*/
 				
-				b1.varProtected=31;
+				b1.varProtected=122;
 				b1.methodProtected();
 				
 				b1.varPublic=41;
