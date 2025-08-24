@@ -6,13 +6,13 @@ public class FinalVariable {
 	final int a = 10;
 	
 	// Declare a static blank final variable.
-	final static int y;
+//	final static int y;
 	
 	final static int z = 20;
 	
 	void change() {
-		a = 30;
-		b = 200;
+	//	a = 30;
+//		b = 200;
 	}
 
 	@Override
@@ -22,8 +22,8 @@ public class FinalVariable {
 	
 	
 	static {
-		b = 20;
-		z=100;
-		System.out.println("value of Y:"+y);
+//		b = 20;
+	//	z=100;
+	//	System.out.println("value of Y:"+y);
 	}
 }

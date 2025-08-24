@@ -1,6 +1,6 @@
 package com.tnsif.dayEight.interfaces.nestedinterfaces;
 
-public class NestedInterfaceClass implements MyInterface {
+/*public class NestedInterfaceClass implements MyInterface {
 	
 	@Override
 	public void print() {
@@ -11,4 +11,4 @@ public class NestedInterfaceClass implements MyInterface {
 	{
 		System.out.println("");
 	}
-}
+}*/
