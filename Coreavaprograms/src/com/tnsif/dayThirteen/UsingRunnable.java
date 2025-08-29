@@ -1,4 +1,4 @@
-package com.dayThirteen;
+package com.tnsif.dayThirteen;
 
 //Program to define implementable class of Runnable interface
 
